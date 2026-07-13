@@ -1,0 +1,1729 @@
+{
+  "transactions": [
+    {
+      "id": "t0001",
+      "date": "2017-05-05",
+      "type": "buy",
+      "symbol": "VOO",
+      "shares": 1,
+      "price": 218.99
+    },
+    {
+      "id": "t0002",
+      "date": "2017-06-09",
+      "type": "buy",
+      "symbol": "META",
+      "shares": 1,
+      "price": 149.37,
+      "note": "Bought as FB"
+    },
+    {
+      "id": "t0003",
+      "date": "2017-09-21",
+      "type": "buy",
+      "symbol": "VOO",
+      "shares": 1,
+      "price": 229.38
+    },
+    {
+      "id": "t0004",
+      "date": "2017-10-06",
+      "type": "buy",
+      "symbol": "VOO",
+      "shares": 1,
+      "price": 233.59
+    },
+    {
+      "id": "t0005",
+      "date": "2017-11-08",
+      "type": "buy",
+      "symbol": "VOO",
+      "shares": 1,
+      "price": 237.46
+    },
+    {
+      "id": "t0006",
+      "date": "2017-11-20",
+      "type": "buy",
+      "symbol": "PYPL",
+      "shares": 2,
+      "price": 76.54
+    },
+    {
+      "id": "t0007",
+      "date": "2017-12-15",
+      "type": "buy",
+      "symbol": "BAC",
+      "shares": 9,
+      "price": 28.96
+    },
+    {
+      "id": "t0008",
+      "date": "2017-12-26",
+      "type": "buy",
+      "symbol": "VOO",
+      "shares": 1,
+      "price": 245.53
+    },
+    {
+      "id": "t0009",
+      "date": "2017-12-29",
+      "type": "buy",
+      "symbol": "VOO",
+      "shares": 1,
+      "price": 246.34
+    },
+    {
+      "id": "t0010",
+      "date": "2018-01-30",
+      "type": "buy",
+      "symbol": "VOO",
+      "shares": 1,
+      "price": 259.75
+    },
+    {
+      "id": "t0011",
+      "date": "2018-02-06",
+      "type": "buy",
+      "symbol": "BRK.B",
+      "shares": 2,
+      "price": 214.93
+    },
+    {
+      "id": "t0012",
+      "date": "2018-02-16",
+      "type": "buy",
+      "symbol": "VOO",
+      "shares": 1,
+      "price": 252.36
+    },
+    {
+      "id": "t0013",
+      "date": "2018-02-20",
+      "type": "buy",
+      "symbol": "VOO",
+      "shares": 2,
+      "price": 250.48
+    },
+    {
+      "id": "t0014",
+      "date": "2018-03-01",
+      "type": "buy",
+      "symbol": "VOO",
+      "shares": 1,
+      "price": 249.21
+    },
+    {
+      "id": "t0015",
+      "date": "2018-03-22",
+      "type": "buy",
+      "symbol": "VOO",
+      "shares": 1,
+      "price": 247.06
+    },
+    {
+      "id": "t0016",
+      "date": "2018-04-02",
+      "type": "buy",
+      "symbol": "VOO",
+      "shares": 1,
+      "price": 238.99
+    },
+    {
+      "id": "t0017",
+      "date": "2018-04-13",
+      "type": "buy",
+      "symbol": "VOO",
+      "shares": 1,
+      "price": 243.73
+    },
+    {
+      "id": "t0018",
+      "date": "2018-05-02",
+      "type": "buy",
+      "symbol": "VOO",
+      "shares": 1,
+      "price": 243.57
+    },
+    {
+      "id": "t0019",
+      "date": "2018-05-15",
+      "type": "buy",
+      "symbol": "VOO",
+      "shares": 1,
+      "price": 248.7
+    },
+    {
+      "id": "t0020",
+      "date": "2018-07-03",
+      "type": "buy",
+      "symbol": "GOOGL",
+      "shares": 20,
+      "price": 56.5,
+      "note": "20-for-1 split adjusted (bought 1 @ $1,130.00)"
+    },
+    {
+      "id": "t0021",
+      "date": "2018-07-16",
+      "type": "buy",
+      "symbol": "VOO",
+      "shares": 1,
+      "price": 256.6
+    },
+    {
+      "id": "t0022",
+      "date": "2018-10-11",
+      "type": "buy",
+      "symbol": "VOO",
+      "shares": 1,
+      "price": 254.7
+    },
+    {
+      "id": "t0023",
+      "date": "2018-10-31",
+      "type": "buy",
+      "symbol": "BRK.B",
+      "shares": 4,
+      "price": 205.45
+    },
+    {
+      "id": "t0024",
+      "date": "2018-11-30",
+      "type": "buy",
+      "symbol": "META",
+      "shares": 7,
+      "price": 139,
+      "note": "Bought as FB"
+    },
+    {
+      "id": "t0025",
+      "date": "2019-01-02",
+      "type": "buy",
+      "symbol": "TSLA",
+      "shares": 45,
+      "price": 20.4,
+      "note": "Split adjusted (bought 3 @ $306.00)"
+    },
+    {
+      "id": "t0026",
+      "date": "2019-01-28",
+      "type": "buy",
+      "symbol": "PYPL",
+      "shares": 10,
+      "price": 92.27
+    },
+    {
+      "id": "t0027",
+      "date": "2019-03-15",
+      "type": "buy",
+      "symbol": "AMZN",
+      "shares": 20,
+      "price": 85,
+      "note": "20-for-1 split adjusted (bought 1 @ $1,700.00)"
+    },
+    {
+      "id": "t0028",
+      "date": "2019-04-04",
+      "type": "buy",
+      "symbol": "META",
+      "shares": 2,
+      "price": 176.99,
+      "note": "Bought as FB"
+    },
+    {
+      "id": "t0029",
+      "date": "2019-04-16",
+      "type": "buy",
+      "symbol": "PYPL",
+      "shares": 3,
+      "price": 108.23
+    },
+    {
+      "id": "t0030",
+      "date": "2019-04-25",
+      "type": "buy",
+      "symbol": "BRK.B",
+      "shares": 2,
+      "price": 210.08
+    },
+    {
+      "id": "t0031",
+      "date": "2019-04-30",
+      "type": "buy",
+      "symbol": "BRK.B",
+      "shares": 2,
+      "price": 215.73
+    },
+    {
+      "id": "t0032",
+      "date": "2019-06-12",
+      "type": "buy",
+      "symbol": "TSLA",
+      "shares": 45,
+      "price": 14.43,
+      "note": "Split adjusted (bought 3 @ $216.40)"
+    },
+    {
+      "id": "t0033",
+      "date": "2019-06-21",
+      "type": "buy",
+      "symbol": "BAC",
+      "shares": 26,
+      "price": 28.5
+    },
+    {
+      "id": "t0034",
+      "date": "2019-10-11",
+      "type": "buy",
+      "symbol": "VOO",
+      "shares": 1,
+      "price": 277.86
+    },
+    {
+      "id": "t0035",
+      "date": "2019-10-23",
+      "type": "buy",
+      "symbol": "BAC",
+      "shares": 69,
+      "price": 31.3
+    },
+    {
+      "id": "t0036",
+      "date": "2019-10-23",
+      "type": "buy",
+      "symbol": "TSLA",
+      "shares": 60,
+      "price": 16.93,
+      "note": "Split adjusted (bought 4 @ $254.00)"
+    },
+    {
+      "id": "t0037",
+      "date": "2019-10-24",
+      "type": "buy",
+      "symbol": "GOOGL",
+      "shares": 20,
+      "price": 62.94,
+      "note": "20-for-1 split adjusted (bought 1 @ $1,258.74)"
+    },
+    {
+      "id": "t0038",
+      "date": "2019-10-31",
+      "type": "buy",
+      "symbol": "META",
+      "shares": 10,
+      "price": 192.5,
+      "note": "Bought as FB"
+    },
+    {
+      "id": "t0039",
+      "date": "2019-10-31",
+      "type": "buy",
+      "symbol": "AMZN",
+      "shares": 20,
+      "price": 88.75,
+      "note": "20-for-1 split adjusted (bought 1 @ $1,775.00)"
+    },
+    {
+      "id": "t0040",
+      "date": "2019-11-07",
+      "type": "buy",
+      "symbol": "MSFT",
+      "shares": 10,
+      "price": 149.5
+    },
+    {
+      "id": "t0041",
+      "date": "2019-11-07",
+      "type": "buy",
+      "symbol": "BRK.B",
+      "shares": 10,
+      "price": 222.63
+    },
+    {
+      "id": "t0042",
+      "date": "2019-11-07",
+      "type": "buy",
+      "symbol": "BYND",
+      "shares": 20,
+      "price": 80.38
+    },
+    {
+      "id": "t0043",
+      "date": "2019-11-20",
+      "type": "buy",
+      "symbol": "VOO",
+      "shares": 2,
+      "price": 285.17
+    },
+    {
+      "id": "t0044",
+      "date": "2019-12-03",
+      "type": "buy",
+      "symbol": "BAC",
+      "shares": 3,
+      "price": 32.75
+    },
+    {
+      "id": "t0045",
+      "date": "2020-01-10",
+      "type": "buy",
+      "symbol": "BAC",
+      "shares": 1,
+      "price": 19.9
+    },
+    {
+      "id": "t0046",
+      "date": "2020-01-10",
+      "type": "buy",
+      "symbol": "BAC",
+      "shares": 2,
+      "price": 35
+    },
+    {
+      "id": "t0047",
+      "date": "2020-04-08",
+      "type": "buy",
+      "symbol": "BAC",
+      "shares": 1,
+      "price": 23.27
+    },
+    {
+      "id": "t0048",
+      "date": "2020-07-30",
+      "type": "buy",
+      "symbol": "BAC",
+      "shares": 1,
+      "price": 24.77
+    },
+    {
+      "id": "t0049",
+      "date": "2020-10-01",
+      "type": "buy",
+      "symbol": "AMD",
+      "shares": 20,
+      "price": 83.48
+    },
+    {
+      "id": "t0050",
+      "date": "2020-10-01",
+      "type": "buy",
+      "symbol": "SQ",
+      "shares": 15,
+      "price": 167.07
+    },
+    {
+      "id": "t0051",
+      "date": "2020-10-23",
+      "type": "sell",
+      "symbol": "TSLA",
+      "shares": 30,
+      "price": 139.02,
+      "note": "Split adjusted (sold 10 @ $417.06)"
+    },
+    {
+      "id": "t0052",
+      "date": "2020-12-04",
+      "type": "buy",
+      "symbol": "PLNHF",
+      "shares": 5,
+      "price": 5.8
+    },
+    {
+      "id": "t0053",
+      "date": "2020-12-11",
+      "type": "buy",
+      "symbol": "PLNHF",
+      "shares": 3,
+      "price": 5.86
+    },
+    {
+      "id": "t0054",
+      "date": "2020-12-16",
+      "type": "buy",
+      "symbol": "PLNHF",
+      "shares": 65,
+      "price": 5.33
+    },
+    {
+      "id": "t0055",
+      "date": "2021-01-04",
+      "type": "buy",
+      "symbol": "PLNHF",
+      "shares": 4,
+      "price": 5.44
+    },
+    {
+      "id": "t0056",
+      "date": "2021-01-05",
+      "type": "buy",
+      "symbol": "PLNHF",
+      "shares": 2,
+      "price": 5.87
+    },
+    {
+      "id": "t0057",
+      "date": "2021-01-05",
+      "type": "buy",
+      "symbol": "PLNHF",
+      "shares": 10,
+      "price": 6
+    },
+    {
+      "id": "t0058",
+      "date": "2021-01-05",
+      "type": "buy",
+      "symbol": "PLNHF",
+      "shares": 5,
+      "price": 6.07
+    },
+    {
+      "id": "t0059",
+      "date": "2021-01-05",
+      "type": "buy",
+      "symbol": "PLNHF",
+      "shares": 4,
+      "price": 5.45
+    },
+    {
+      "id": "t0060",
+      "date": "2021-01-05",
+      "type": "buy",
+      "symbol": "CAKE",
+      "shares": 15,
+      "price": 36.19
+    },
+    {
+      "id": "t0061",
+      "date": "2021-01-05",
+      "type": "buy",
+      "symbol": "MSFT",
+      "shares": 2,
+      "price": 217.47
+    },
+    {
+      "id": "t0062",
+      "date": "2021-01-19",
+      "type": "buy",
+      "symbol": "PLNHF",
+      "shares": 13,
+      "price": 5.72
+    },
+    {
+      "id": "t0063",
+      "date": "2021-01-21",
+      "type": "buy",
+      "symbol": "PLNHF",
+      "shares": 7,
+      "price": 5.72
+    },
+    {
+      "id": "t0064",
+      "date": "2021-02-01",
+      "type": "buy",
+      "symbol": "AMD",
+      "shares": 1,
+      "price": 84.86
+    },
+    {
+      "id": "t0065",
+      "date": "2021-02-01",
+      "type": "buy",
+      "symbol": "PLNHF",
+      "shares": 2,
+      "price": 5.18
+    },
+    {
+      "id": "t0066",
+      "date": "2021-02-02",
+      "type": "buy",
+      "symbol": "PLNHF",
+      "shares": 4,
+      "price": 5.32
+    },
+    {
+      "id": "t0067",
+      "date": "2021-02-04",
+      "type": "buy",
+      "symbol": "PLNHF",
+      "shares": 3,
+      "price": 5.6
+    },
+    {
+      "id": "t0068",
+      "date": "2021-02-18",
+      "type": "buy",
+      "symbol": "PLNHF",
+      "shares": 3,
+      "price": 7.2
+    },
+    {
+      "id": "t0069",
+      "date": "2021-02-18",
+      "type": "buy",
+      "symbol": "AMD",
+      "shares": 1,
+      "price": 87.98
+    },
+    {
+      "id": "t0070",
+      "date": "2021-03-01",
+      "type": "buy",
+      "symbol": "PLNHF",
+      "shares": 1,
+      "price": 7.18
+    },
+    {
+      "id": "t0071",
+      "date": "2021-03-01",
+      "type": "buy",
+      "symbol": "PLNHF",
+      "shares": 6,
+      "price": 7
+    },
+    {
+      "id": "t0072",
+      "date": "2021-03-01",
+      "type": "buy",
+      "symbol": "AMD",
+      "shares": 3,
+      "price": 84.71
+    },
+    {
+      "id": "t0073",
+      "date": "2021-03-01",
+      "type": "buy",
+      "symbol": "PLNHF",
+      "shares": 5,
+      "price": 7.05
+    },
+    {
+      "id": "t0074",
+      "date": "2021-03-04",
+      "type": "buy",
+      "symbol": "PLNHF",
+      "shares": 8,
+      "price": 6.76
+    },
+    {
+      "id": "t0075",
+      "date": "2021-03-04",
+      "type": "buy",
+      "symbol": "PLNHF",
+      "shares": 1,
+      "price": 6.38
+    },
+    {
+      "id": "t0076",
+      "date": "2021-03-16",
+      "type": "buy",
+      "symbol": "AMD",
+      "shares": 2,
+      "price": 83.5
+    },
+    {
+      "id": "t0077",
+      "date": "2021-03-25",
+      "type": "sell",
+      "symbol": "CAKE",
+      "shares": 15,
+      "price": 58
+    },
+    {
+      "id": "t0078",
+      "date": "2021-03-29",
+      "type": "buy",
+      "symbol": "PLNHF",
+      "shares": 2,
+      "price": 6.03
+    },
+    {
+      "id": "t0079",
+      "date": "2021-03-29",
+      "type": "buy",
+      "symbol": "AMD",
+      "shares": 2,
+      "price": 77.45
+    },
+    {
+      "id": "t0080",
+      "date": "2021-03-29",
+      "type": "buy",
+      "symbol": "MSFT",
+      "shares": 3,
+      "price": 234.67
+    },
+    {
+      "id": "t0081",
+      "date": "2021-04-01",
+      "type": "buy",
+      "symbol": "PLNHF",
+      "shares": 13,
+      "price": 6.32
+    },
+    {
+      "id": "t0082",
+      "date": "2021-04-01",
+      "type": "buy",
+      "symbol": "AMD",
+      "shares": 3,
+      "price": 80.4
+    },
+    {
+      "id": "t0083",
+      "date": "2021-04-19",
+      "type": "buy",
+      "symbol": "AMD",
+      "shares": 1,
+      "price": 80.41
+    },
+    {
+      "id": "t0084",
+      "date": "2021-04-20",
+      "type": "buy",
+      "symbol": "PLNHF",
+      "shares": 2,
+      "price": 6.5
+    },
+    {
+      "id": "t0085",
+      "date": "2021-05-03",
+      "type": "buy",
+      "symbol": "PLNHF",
+      "shares": 32,
+      "price": 6.77
+    },
+    {
+      "id": "t0086",
+      "date": "2021-07-30",
+      "type": "buy",
+      "symbol": "AMZN",
+      "shares": 20,
+      "price": 167,
+      "note": "20-for-1 split adjusted (bought 1 @ $3,339.91)"
+    },
+    {
+      "id": "t0087",
+      "date": "2021-08-05",
+      "type": "buy",
+      "symbol": "AMD",
+      "shares": 2,
+      "price": 114.09
+    },
+    {
+      "id": "t0088",
+      "date": "2021-08-06",
+      "type": "buy",
+      "symbol": "AMD",
+      "shares": 1,
+      "price": 111.48
+    },
+    {
+      "id": "t0089",
+      "date": "2021-08-09",
+      "type": "buy",
+      "symbol": "AMD",
+      "shares": 1,
+      "price": 108.75
+    },
+    {
+      "id": "t0090",
+      "date": "2021-08-16",
+      "type": "buy",
+      "symbol": "AMD",
+      "shares": 1,
+      "price": 109.11
+    },
+    {
+      "id": "t0091",
+      "date": "2021-08-17",
+      "type": "buy",
+      "symbol": "AMD",
+      "shares": 2,
+      "price": 106.01
+    },
+    {
+      "id": "t0092",
+      "date": "2021-08-18",
+      "type": "buy",
+      "symbol": "AMD",
+      "shares": 1,
+      "price": 106.64
+    },
+    {
+      "id": "t0093",
+      "date": "2021-10-08",
+      "type": "buy",
+      "symbol": "AMD",
+      "shares": 9,
+      "price": 106.56
+    },
+    {
+      "id": "t0094",
+      "date": "2021-10-08",
+      "type": "buy",
+      "symbol": "META",
+      "shares": 2,
+      "price": 332.21,
+      "note": "Bought as FB"
+    },
+    {
+      "id": "t0095",
+      "date": "2021-10-21",
+      "type": "buy",
+      "symbol": "PLNHF",
+      "shares": 40,
+      "price": 4.4
+    },
+    {
+      "id": "t0096",
+      "date": "2022-01-20",
+      "type": "buy",
+      "symbol": "BYND",
+      "shares": 5,
+      "price": 66.65
+    },
+    {
+      "id": "t0097",
+      "date": "2022-01-24",
+      "type": "buy",
+      "symbol": "BYND",
+      "shares": 1,
+      "price": 55.55
+    },
+    {
+      "id": "t0098",
+      "date": "2022-01-25",
+      "type": "buy",
+      "symbol": "BYND",
+      "shares": 1,
+      "price": 59.79
+    },
+    {
+      "id": "t0099",
+      "date": "2022-03-08",
+      "type": "buy",
+      "symbol": "BYND",
+      "shares": 1,
+      "price": 41.28
+    },
+    {
+      "id": "t0100",
+      "date": "2022-06-30",
+      "type": "buy",
+      "symbol": "AMZN",
+      "shares": 1,
+      "price": 104.12
+    },
+    {
+      "id": "t0101",
+      "date": "2022-07-18",
+      "type": "buy",
+      "symbol": "GOOGL",
+      "shares": 1,
+      "price": 111.72
+    },
+    {
+      "id": "t0102",
+      "date": "2022-08-01",
+      "type": "buy",
+      "symbol": "GOOGL",
+      "shares": 1,
+      "price": 116.27
+    },
+    {
+      "id": "t0103",
+      "date": "2022-08-03",
+      "type": "buy",
+      "symbol": "GOOGL",
+      "shares": 1,
+      "price": 121.86
+    },
+    {
+      "id": "t0104",
+      "date": "2022-08-03",
+      "type": "buy",
+      "symbol": "GOOGL",
+      "shares": 37,
+      "price": 121.7
+    },
+    {
+      "id": "t0105",
+      "date": "2022-08-03",
+      "type": "buy",
+      "symbol": "GOOGL",
+      "shares": 20,
+      "price": 117.36
+    },
+    {
+      "id": "t0106",
+      "date": "2022-08-03",
+      "type": "buy",
+      "symbol": "AMZN",
+      "shares": 39,
+      "price": 141.32
+    },
+    {
+      "id": "t0107",
+      "date": "2022-08-03",
+      "type": "sell",
+      "symbol": "PYPL",
+      "shares": 15,
+      "price": 97.98
+    },
+    {
+      "id": "t0108",
+      "date": "2022-08-03",
+      "type": "sell",
+      "symbol": "META",
+      "shares": 22,
+      "price": 168.06,
+      "note": "Sold the original FB position"
+    },
+    {
+      "id": "t0109",
+      "date": "2022-08-03",
+      "type": "sell",
+      "symbol": "SQ",
+      "shares": 15,
+      "price": 87.39
+    },
+    {
+      "id": "t0110",
+      "date": "2022-08-03",
+      "type": "sell",
+      "symbol": "PLNHF",
+      "shares": 250,
+      "price": 2
+    },
+    {
+      "id": "t0111",
+      "date": "2022-08-03",
+      "type": "sell",
+      "symbol": "BYND",
+      "shares": 28,
+      "price": 33.28
+    },
+    {
+      "id": "t0112",
+      "date": "2022-08-12",
+      "type": "sell",
+      "symbol": "TSLA",
+      "shares": 15,
+      "price": 300,
+      "note": "Split adjusted (sold 5 @ $900.00)"
+    },
+    {
+      "id": "t0113",
+      "date": "2022-08-18",
+      "type": "buy",
+      "symbol": "AMD",
+      "shares": 1,
+      "price": 98.06
+    },
+    {
+      "id": "t0114",
+      "date": "2022-08-29",
+      "type": "sell",
+      "symbol": "TSLA",
+      "shares": 5,
+      "price": 283
+    },
+    {
+      "id": "t0115",
+      "date": "2022-08-31",
+      "type": "buy",
+      "symbol": "AMD",
+      "shares": 1,
+      "price": 85.83
+    },
+    {
+      "id": "t0116",
+      "date": "2022-08-31",
+      "type": "buy",
+      "symbol": "AMD",
+      "shares": 17,
+      "price": 86
+    },
+    {
+      "id": "t0117",
+      "date": "2022-09-01",
+      "type": "buy",
+      "symbol": "AMD",
+      "shares": 1,
+      "price": 79.22
+    },
+    {
+      "id": "t0118",
+      "date": "2022-09-15",
+      "type": "buy",
+      "symbol": "AMD",
+      "shares": 2,
+      "price": 77.19
+    },
+    {
+      "id": "t0119",
+      "date": "2022-09-30",
+      "type": "buy",
+      "symbol": "AMD",
+      "shares": 8,
+      "price": 63.99
+    },
+    {
+      "id": "t0120",
+      "date": "2022-10-07",
+      "type": "buy",
+      "symbol": "AMD",
+      "shares": 5,
+      "price": 62.56
+    },
+    {
+      "id": "t0121",
+      "date": "2022-10-10",
+      "type": "buy",
+      "symbol": "AMD",
+      "shares": 5,
+      "price": 56.82
+    },
+    {
+      "id": "t0122",
+      "date": "2022-10-19",
+      "type": "buy",
+      "symbol": "AMD",
+      "shares": 10,
+      "price": 57.73
+    },
+    {
+      "id": "t0123",
+      "date": "2022-11-03",
+      "type": "buy",
+      "symbol": "MSFT",
+      "shares": 1,
+      "price": 217.17
+    },
+    {
+      "id": "t0124",
+      "date": "2022-12-02",
+      "type": "buy",
+      "symbol": "MSFT",
+      "shares": 4,
+      "price": 251.87
+    },
+    {
+      "id": "t0125",
+      "date": "2022-12-16",
+      "type": "buy",
+      "symbol": "MSFT",
+      "shares": 1,
+      "price": 244.65
+    },
+    {
+      "id": "t0126",
+      "date": "2022-12-20",
+      "type": "buy",
+      "symbol": "MSFT",
+      "shares": 1,
+      "price": 236.07
+    },
+    {
+      "id": "t0127",
+      "date": "2022-12-30",
+      "type": "buy",
+      "symbol": "MSFT",
+      "shares": 3,
+      "price": 237.46
+    },
+    {
+      "id": "t0128",
+      "date": "2023-01-12",
+      "type": "buy",
+      "symbol": "MSFT",
+      "shares": 2,
+      "price": 238.54
+    },
+    {
+      "id": "t0129",
+      "date": "2023-01-25",
+      "type": "buy",
+      "symbol": "MSFT",
+      "shares": 1,
+      "price": 233.59
+    },
+    {
+      "id": "t0130",
+      "date": "2023-01-31",
+      "type": "buy",
+      "symbol": "MSFT",
+      "shares": 3,
+      "price": 243.63
+    },
+    {
+      "id": "t0131",
+      "date": "2023-02-17",
+      "type": "buy",
+      "symbol": "MSFT",
+      "shares": 1,
+      "price": 257.1
+    },
+    {
+      "id": "t0132",
+      "date": "2023-02-28",
+      "type": "buy",
+      "symbol": "MSFT",
+      "shares": 1,
+      "price": 249.25
+    },
+    {
+      "id": "t0133",
+      "date": "2023-05-08",
+      "type": "sell",
+      "symbol": "AMD",
+      "shares": 100,
+      "price": 89.7
+    },
+    {
+      "id": "t0134",
+      "date": "2023-05-10",
+      "type": "buy",
+      "symbol": "BAC",
+      "shares": 68,
+      "price": 27.8
+    },
+    {
+      "id": "t0135",
+      "date": "2023-05-10",
+      "type": "buy",
+      "symbol": "SCHD",
+      "shares": 300,
+      "price": 23.6,
+      "note": "3-for-1 split adjusted (bought 100 @ $70.80)"
+    },
+    {
+      "id": "t0136",
+      "date": "2023-07-05",
+      "type": "buy",
+      "symbol": "BAC",
+      "shares": 10,
+      "price": 29.05
+    },
+    {
+      "id": "t0137",
+      "date": "2023-08-16",
+      "type": "buy",
+      "symbol": "BAC",
+      "shares": 10,
+      "price": 29.48
+    },
+    {
+      "id": "t0138",
+      "date": "2023-09-29",
+      "type": "buy",
+      "symbol": "SCHD",
+      "shares": 42,
+      "price": 23.57,
+      "note": "3-for-1 split adjusted (bought 14 @ $70.72)"
+    },
+    {
+      "id": "t0139",
+      "date": "2023-10-02",
+      "type": "sell",
+      "symbol": "BRK.B",
+      "shares": 20,
+      "price": 346.68
+    },
+    {
+      "id": "t0140",
+      "date": "2023-10-02",
+      "type": "buy",
+      "symbol": "SCHD",
+      "shares": 3,
+      "price": 23.49,
+      "note": "3-for-1 split adjusted (bought 1 @ $70.46)"
+    },
+    {
+      "id": "t0141",
+      "date": "2023-10-04",
+      "type": "buy",
+      "symbol": "SCHD",
+      "shares": 255,
+      "price": 23.16,
+      "note": "3-for-1 split adjusted (bought 85 @ $69.47)"
+    },
+    {
+      "id": "t0142",
+      "date": "2023-10-04",
+      "type": "buy",
+      "symbol": "VOO",
+      "shares": 2,
+      "price": 388.5
+    },
+    {
+      "id": "t0143",
+      "date": "2023-10-16",
+      "type": "buy",
+      "symbol": "VOO",
+      "shares": 1,
+      "price": 399.15
+    },
+    {
+      "id": "t0144",
+      "date": "2023-10-17",
+      "type": "buy",
+      "symbol": "VOO",
+      "shares": 1,
+      "price": 397.39
+    },
+    {
+      "id": "t0145",
+      "date": "2024-01-02",
+      "type": "buy",
+      "symbol": "META",
+      "shares": 8,
+      "price": 343.08
+    },
+    {
+      "id": "t0146",
+      "date": "2024-01-29",
+      "type": "sell",
+      "symbol": "BAC",
+      "shares": 215.251,
+      "price": 33.29,
+      "note": "Includes dividend-reinvested shares"
+    },
+    {
+      "id": "t0147",
+      "date": "2024-01-31",
+      "type": "buy",
+      "symbol": "AMZN",
+      "shares": 1,
+      "price": 156.54
+    },
+    {
+      "id": "t0148",
+      "date": "2024-01-31",
+      "type": "buy",
+      "symbol": "GOOGL",
+      "shares": 1,
+      "price": 141.17
+    },
+    {
+      "id": "t0149",
+      "date": "2024-01-31",
+      "type": "buy",
+      "symbol": "META",
+      "shares": 18,
+      "price": 393.85
+    },
+    {
+      "id": "t0150",
+      "date": "2024-03-14",
+      "type": "sell",
+      "symbol": "TSLA",
+      "shares": 100,
+      "price": 166.17
+    },
+    {
+      "id": "t0151",
+      "date": "2024-04-03",
+      "type": "buy",
+      "symbol": "COST",
+      "shares": 10,
+      "price": 701.86
+    },
+    {
+      "id": "t0152",
+      "date": "2024-09-06",
+      "type": "buy",
+      "symbol": "SCHD",
+      "shares": 360,
+      "price": 27.37,
+      "note": "3-for-1 split adjusted (bought 120 @ $82.11)"
+    },
+    {
+      "id": "t0153",
+      "date": "2024-09-13",
+      "type": "sell",
+      "symbol": "SCHD",
+      "shares": 360,
+      "price": 27.74,
+      "note": "3-for-1 split adjusted (sold 120 @ $83.22)"
+    },
+    {
+      "id": "t0154",
+      "date": "2024-09-16",
+      "type": "buy",
+      "symbol": "GOOGL",
+      "shares": 62,
+      "price": 162.04
+    },
+    {
+      "id": "t0155",
+      "date": "2024-09-16",
+      "type": "buy",
+      "symbol": "GOOGL",
+      "shares": 63,
+      "price": 157.84
+    },
+    {
+      "id": "t0156",
+      "date": "2024-09-19",
+      "type": "sell",
+      "symbol": "GOOGL",
+      "shares": 62,
+      "price": 162.4
+    },
+    {
+      "id": "t0157",
+      "date": "2024-09-27",
+      "type": "sell",
+      "symbol": "GOOGL",
+      "shares": 62,
+      "price": 163.69
+    },
+    {
+      "id": "t0158",
+      "date": "2024-09-27",
+      "type": "sell",
+      "symbol": "GOOGL",
+      "shares": 61,
+      "price": 164.7
+    },
+    {
+      "id": "t0159",
+      "date": "2024-09-30",
+      "type": "buy",
+      "symbol": "AMZN",
+      "shares": 54,
+      "price": 185.15
+    },
+    {
+      "id": "t0160",
+      "date": "2024-10-04",
+      "type": "sell",
+      "symbol": "AMZN",
+      "shares": 55,
+      "price": 184.5
+    },
+    {
+      "id": "t0161",
+      "date": "2024-10-04",
+      "type": "sell",
+      "symbol": "AMZN",
+      "shares": 54,
+      "price": 187.5
+    },
+    {
+      "id": "t0162",
+      "date": "2024-10-07",
+      "type": "buy",
+      "symbol": "AMZN",
+      "shares": 56,
+      "price": 180.82
+    },
+    {
+      "id": "t0163",
+      "date": "2024-10-17",
+      "type": "buy",
+      "symbol": "GOOGL",
+      "shares": 63,
+      "price": 162.7
+    },
+    {
+      "id": "t0164",
+      "date": "2024-10-17",
+      "type": "buy",
+      "symbol": "GOOGL",
+      "shares": 62,
+      "price": 163.09
+    },
+    {
+      "id": "t0165",
+      "date": "2024-10-22",
+      "type": "sell",
+      "symbol": "GOOGL",
+      "shares": 62,
+      "price": 165.4
+    },
+    {
+      "id": "t0166",
+      "date": "2024-10-23",
+      "type": "buy",
+      "symbol": "AMZN",
+      "shares": 55,
+      "price": 184.15
+    },
+    {
+      "id": "t0167",
+      "date": "2024-10-24",
+      "type": "sell",
+      "symbol": "AMZN",
+      "shares": 55,
+      "price": 186.14
+    },
+    {
+      "id": "t0168",
+      "date": "2024-10-31",
+      "type": "buy",
+      "symbol": "META",
+      "shares": 18,
+      "price": 574.63
+    },
+    {
+      "id": "t0169",
+      "date": "2024-11-07",
+      "type": "sell",
+      "symbol": "META",
+      "shares": 18,
+      "price": 584
+    },
+    {
+      "id": "t0170",
+      "date": "2024-11-14",
+      "type": "buy",
+      "symbol": "GOOGL",
+      "shares": 60,
+      "price": 175.54
+    },
+    {
+      "id": "t0171",
+      "date": "2024-11-19",
+      "type": "sell",
+      "symbol": "GOOGL",
+      "shares": 60,
+      "price": 176.56
+    },
+    {
+      "id": "t0172",
+      "date": "2024-11-27",
+      "type": "buy",
+      "symbol": "GOOGL",
+      "shares": 16,
+      "price": 168.49
+    },
+    {
+      "id": "t0173",
+      "date": "2024-12-09",
+      "type": "buy",
+      "symbol": "SCHD",
+      "shares": 277,
+      "price": 28.9
+    },
+    {
+      "id": "t0174",
+      "date": "2024-12-31",
+      "type": "buy",
+      "symbol": "VOO",
+      "shares": 2.864,
+      "price": 539.59,
+      "note": "Accumulated dividend reinvestments"
+    },
+    {
+      "id": "t0175",
+      "date": "2025-01-02",
+      "type": "buy",
+      "symbol": "VOO",
+      "shares": 0.0353,
+      "price": 539.59,
+      "note": "Dividend reinvestment"
+    },
+    {
+      "id": "t0176",
+      "date": "2025-02-24",
+      "type": "buy",
+      "symbol": "VOO",
+      "shares": 0.0211,
+      "price": 552.78,
+      "note": "Dividend reinvestment"
+    },
+    {
+      "id": "t0177",
+      "date": "2025-05-19",
+      "type": "buy",
+      "symbol": "VOO",
+      "shares": 0.0239,
+      "price": 546.33,
+      "note": "Dividend reinvestment"
+    },
+    {
+      "id": "t0178",
+      "date": "2025-08-18",
+      "type": "buy",
+      "symbol": "VOO",
+      "shares": 0.0221,
+      "price": 591.57,
+      "note": "Dividend reinvestment"
+    },
+    {
+      "id": "t0179",
+      "date": "2025-11-15",
+      "type": "buy",
+      "symbol": "VOO",
+      "shares": 0.0212,
+      "price": 615.3,
+      "note": "Dividend reinvestment"
+    },
+    {
+      "id": "t0180",
+      "date": "2026-02-17",
+      "type": "buy",
+      "symbol": "VOO",
+      "shares": 0.0209,
+      "price": 624.48,
+      "note": "Dividend reinvestment"
+    },
+    {
+      "id": "t0181",
+      "date": "2026-02-20",
+      "type": "sell",
+      "symbol": "GOOGL",
+      "shares": 40,
+      "price": 315.2
+    },
+    {
+      "id": "t0182",
+      "date": "2026-02-23",
+      "type": "buy",
+      "symbol": "VOO",
+      "shares": 3.864,
+      "price": 628.83
+    },
+    {
+      "id": "t0183",
+      "date": "2026-02-23",
+      "type": "buy",
+      "symbol": "JPM",
+      "shares": 34,
+      "price": 299.36
+    },
+    {
+      "id": "t0184",
+      "date": "2026-03-26",
+      "type": "sell",
+      "symbol": "SCHD",
+      "shares": 116,
+      "price": 30.76
+    },
+    {
+      "id": "t0185",
+      "date": "2026-03-27",
+      "type": "buy",
+      "symbol": "MSFT",
+      "shares": 8,
+      "price": 358.53
+    },
+    {
+      "id": "t0186",
+      "date": "2026-03-27",
+      "type": "buy",
+      "symbol": "META",
+      "shares": 1,
+      "price": 539.57
+    },
+    {
+      "id": "t0187",
+      "date": "2026-04-05",
+      "type": "buy",
+      "symbol": "SCHD",
+      "shares": 84.675,
+      "price": 30.56,
+      "note": "Accumulated dividend reinvestments"
+    },
+    {
+      "id": "t0188",
+      "date": "2026-04-06",
+      "type": "sell",
+      "symbol": "SCHD",
+      "shares": 820,
+      "price": 30.56
+    },
+    {
+      "id": "t0189",
+      "date": "2026-04-07",
+      "type": "buy",
+      "symbol": "AMZN",
+      "shares": 25,
+      "price": 209.93
+    },
+    {
+      "id": "t0190",
+      "date": "2026-04-07",
+      "type": "sell",
+      "symbol": "AMZN",
+      "shares": 22,
+      "price": 240.39
+    },
+    {
+      "id": "t0191",
+      "date": "2026-04-07",
+      "type": "buy",
+      "symbol": "META",
+      "shares": 35,
+      "price": 567.62
+    },
+    {
+      "id": "t0192",
+      "date": "2026-04-13",
+      "type": "buy",
+      "symbol": "SCHD",
+      "shares": 662,
+      "price": 30.56
+    },
+    {
+      "id": "t0193",
+      "date": "2026-04-13",
+      "type": "buy",
+      "symbol": "SCHD",
+      "shares": 176,
+      "price": 30.55
+    },
+    {
+      "id": "t0194",
+      "date": "2026-04-14",
+      "type": "sell",
+      "symbol": "META",
+      "shares": 31,
+      "price": 652.27
+    },
+    {
+      "id": "t0195",
+      "date": "2026-06-01",
+      "type": "sell",
+      "symbol": "SCHD",
+      "shares": 239,
+      "price": 32.22
+    },
+    {
+      "id": "t0196",
+      "date": "2026-06-01",
+      "type": "sell",
+      "symbol": "VOO",
+      "shares": 3,
+      "price": 696.24
+    },
+    {
+      "id": "t0197",
+      "date": "2026-06-02",
+      "type": "sell",
+      "symbol": "COST",
+      "shares": 8,
+      "price": 952.57
+    },
+    {
+      "id": "t0198",
+      "date": "2026-06-02",
+      "type": "buy",
+      "symbol": "BRK.B",
+      "shares": 20,
+      "price": 472.53
+    },
+    {
+      "id": "t0199",
+      "date": "2026-06-02",
+      "type": "sell",
+      "symbol": "JPM",
+      "shares": 34.166,
+      "price": 301,
+      "note": "Includes dividend-reinvested shares"
+    },
+    {
+      "id": "t0200",
+      "date": "2026-06-03",
+      "type": "buy",
+      "symbol": "AMZN",
+      "shares": 9,
+      "price": 255.74
+    },
+    {
+      "id": "t0201",
+      "date": "2026-06-03",
+      "type": "buy",
+      "symbol": "HOOD",
+      "shares": 60,
+      "price": 84.21
+    },
+    {
+      "id": "t0202",
+      "date": "2026-06-03",
+      "type": "buy",
+      "symbol": "BRK.B",
+      "shares": 23,
+      "price": 470.44
+    },
+    {
+      "id": "t0203",
+      "date": "2026-06-08",
+      "type": "buy",
+      "symbol": "MSFT",
+      "shares": 1.298,
+      "price": 389.44,
+      "note": "Accumulated dividend reinvestments"
+    },
+    {
+      "id": "t0204",
+      "date": "2026-06-08",
+      "type": "buy",
+      "symbol": "GOOGL",
+      "shares": 0.948,
+      "price": 357.15,
+      "note": "Accumulated dividend reinvestments"
+    },
+    {
+      "id": "t0205",
+      "date": "2026-06-08",
+      "type": "buy",
+      "symbol": "META",
+      "shares": 0.231,
+      "price": 674.25,
+      "note": "Accumulated dividend reinvestments"
+    },
+    {
+      "id": "t0206",
+      "date": "2026-06-08",
+      "type": "buy",
+      "symbol": "COST",
+      "shares": 0.042,
+      "price": 920.58,
+      "note": "Accumulated dividend reinvestments"
+    },
+    {
+      "id": "t0207",
+      "date": "2026-06-10",
+      "type": "buy",
+      "symbol": "VOO",
+      "shares": 0.0556,
+      "price": 672.58,
+      "note": "Dividend reinvestment"
+    },
+    {
+      "id": "t0208",
+      "date": "2026-06-10",
+      "type": "sell",
+      "symbol": "SCHD",
+      "shares": 150,
+      "price": 32.41
+    },
+    {
+      "id": "t0209",
+      "date": "2026-06-10",
+      "type": "sell",
+      "symbol": "VOO",
+      "shares": 8,
+      "price": 672.72
+    },
+    {
+      "id": "t0210",
+      "date": "2026-06-11",
+      "type": "buy",
+      "symbol": "AMZN",
+      "shares": 43,
+      "price": 237.22
+    },
+    {
+      "id": "t0211",
+      "date": "2026-06-26",
+      "type": "buy",
+      "symbol": "HOOD",
+      "shares": 1,
+      "price": 95.86
+    }
+  ]
+}
