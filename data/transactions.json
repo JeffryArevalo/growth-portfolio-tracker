@@ -1724,6 +1724,14 @@
       "symbol": "HOOD",
       "shares": 1,
       "price": 95.86
+    },
+    {
+      "id": "mrxmxh42i8zprh",
+      "date": "2026-07-23",
+      "type": "sell",
+      "symbol": "SCHD",
+      "shares": 305,
+      "price": 32.84
     }
   ]
 }
