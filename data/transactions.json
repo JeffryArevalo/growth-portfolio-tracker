@@ -1748,6 +1748,14 @@
       "symbol": "SCHD",
       "shares": 1,
       "price": 32.9
+    },
+    {
+      "id": "mrxmz3zahrk4sa",
+      "date": "2026-07-23",
+      "type": "buy",
+      "symbol": "NFLX",
+      "shares": 294,
+      "price": 68.82
     }
   ]
 }
