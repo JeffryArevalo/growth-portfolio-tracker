@@ -1740,6 +1740,14 @@
       "symbol": "VOO",
       "shares": 15,
       "price": 679.32
+    },
+    {
+      "id": "mrxmyi1972ofzq",
+      "date": "2026-07-23",
+      "type": "sell",
+      "symbol": "SCHD",
+      "shares": 1,
+      "price": 32.9
     }
   ]
 }
