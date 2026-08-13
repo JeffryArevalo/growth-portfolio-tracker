@@ -1756,6 +1756,14 @@
       "symbol": "NFLX",
       "shares": 294,
       "price": 68.82
+    },
+    {
+      "id": "msrlnoc6uff2p6",
+      "date": "2026-08-10",
+      "type": "sell",
+      "symbol": "NFLX",
+      "shares": 263,
+      "price": 77.12
     }
   ]
 }
