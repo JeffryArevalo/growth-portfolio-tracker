@@ -1764,6 +1764,14 @@
       "symbol": "NFLX",
       "shares": 263,
       "price": 77.12
+    },
+    {
+      "id": "mst1cus3mndusq",
+      "date": "2026-08-14",
+      "type": "buy",
+      "symbol": "META",
+      "shares": 33,
+      "price": 598.4
     }
   ]
 }
