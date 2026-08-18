@@ -1772,6 +1772,14 @@
       "symbol": "META",
       "shares": 33,
       "price": 598.4
+    },
+    {
+      "id": "msyshqu5uet01z",
+      "date": "2026-08-18",
+      "type": "buy",
+      "symbol": "META",
+      "shares": 1,
+      "price": 545.9
     }
   ]
 }
