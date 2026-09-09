@@ -1780,6 +1780,14 @@
       "symbol": "META",
       "shares": 1,
       "price": 545.9
+    },
+    {
+      "id": "mtu7ch7otlrp4v",
+      "date": "2026-09-09",
+      "type": "sell",
+      "symbol": "META",
+      "shares": 32,
+      "price": 650
     }
   ]
 }
