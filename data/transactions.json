@@ -1796,6 +1796,14 @@
       "symbol": "COST",
       "shares": 23,
       "price": 900.58
+    },
+    {
+      "id": "mufld30lax06qp",
+      "date": "2026-09-24",
+      "type": "sell",
+      "symbol": "COST",
+      "shares": 22,
+      "price": 906.99
     }
   ]
 }
