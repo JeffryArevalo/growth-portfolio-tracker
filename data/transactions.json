@@ -1804,6 +1804,14 @@
       "symbol": "COST",
       "shares": 22,
       "price": 906.99
+    },
+    {
+      "id": "muhcz3ga55pbrp",
+      "date": "2026-09-25",
+      "type": "buy",
+      "symbol": "BAC",
+      "shares": 354,
+      "price": 56.59
     }
   ]
 }
