@@ -1812,6 +1812,14 @@
       "symbol": "BAC",
       "shares": 354,
       "price": 56.59
+    },
+    {
+      "id": "mvitvxk8p3xy3w",
+      "date": "2026-10-21",
+      "type": "sell",
+      "symbol": "COST",
+      "shares": 1,
+      "price": 991
     }
   ]
 }
