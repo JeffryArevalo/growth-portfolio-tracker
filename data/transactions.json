@@ -1836,6 +1836,14 @@
       "symbol": "SCHD",
       "shares": 43,
       "price": 36.21
+    },
+    {
+      "id": "mw411bvdc3441r",
+      "date": "2026-11-05",
+      "type": "buy",
+      "symbol": "VOO",
+      "shares": 2.3328,
+      "price": 676.44
     }
   ]
 }
