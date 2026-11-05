@@ -1820,6 +1820,14 @@
       "symbol": "COST",
       "shares": 1,
       "price": 991
+    },
+    {
+      "id": "mw2wyo15jpc6dv",
+      "date": "2026-11-02",
+      "type": "sell",
+      "symbol": "COST",
+      "shares": 2.042,
+      "price": 1040.03
     }
   ]
 }
