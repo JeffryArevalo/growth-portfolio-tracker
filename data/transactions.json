@@ -1828,6 +1828,14 @@
       "symbol": "COST",
       "shares": 2.042,
       "price": 1040.03
+    },
+    {
+      "id": "mw40tc3w44q1j1",
+      "date": "2026-11-05",
+      "type": "buy",
+      "symbol": "SCHD",
+      "shares": 43,
+      "price": 36.21
     }
   ]
 }
